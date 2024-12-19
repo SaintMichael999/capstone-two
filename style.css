@@ -10,8 +10,6 @@ body {
     font-style: normal;
     text-align: center;
     text-transform: uppercase;
-    position: sticky; top: 0;
-    backdrop-filter: blur(45px);
 }
 .first-container {
     background-color: #D9EAFD;
